@@ -2,7 +2,6 @@
 name: learn
 description: Full learning-to-implementation pipeline for mastering a new topic. Chains survey, prototype, deep-dive, synthesis, and execution skills into one flow.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep, Task, WebSearch, WebFetch, TaskCreate, TaskUpdate, TaskList, TaskGet
-attribution: Original work (https://github.com/LiudengZhang/Core_Skills_4_Projects)
 ---
 
 # Learn Skill

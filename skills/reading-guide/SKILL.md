@@ -2,7 +2,6 @@
 name: reading-guide
 description: Create, edit, and maintain structured reading guides with Obsidian-compatible Mermaid flowcharts and paper tables.
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep
-attribution: Original work (https://github.com/LiudengZhang/Core_Skills_4_Projects)
 ---
 
 # Reading Guide Skill
