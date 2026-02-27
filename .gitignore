@@ -1,0 +1,36 @@
+# Credentials and tokens
+.credentials.json
+*.credentials*
+*.env
+.env.*
+
+# Session state (project-specific, not publishable)
+learn_state.json
+*_state.json
+
+# Local settings
+settings.local.json
+settings.json
+
+# User notes and research data (at project root, not inside skills/)
+/notes/
+/context/
+/plans/
+/dashboard/
+
+# Learnings (personal logs)
+.learnings/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
