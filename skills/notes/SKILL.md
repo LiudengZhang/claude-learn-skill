@@ -2,6 +2,7 @@
 name: notes
 description: Create, search, and manage structured research notes linked to dispatch plans.
 allowed-tools: Read, Write, Bash, Glob, Grep
+attribution: Original work (https://github.com/LiudengZhang/Core_Skills_4_Projects)
 ---
 
 # Notes Skill

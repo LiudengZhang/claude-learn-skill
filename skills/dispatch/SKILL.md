@@ -2,6 +2,7 @@
 name: dispatch
 description: Create and manage task plans for multi-agent execution. Commander/Executor pattern where one terminal creates plans and others execute them.
 allowed-tools: Read, Write, Bash, Glob, TaskList, TaskGet
+attribution: Original work (https://github.com/LiudengZhang/Core_Skills_4_Projects)
 ---
 
 # Dispatch Skill

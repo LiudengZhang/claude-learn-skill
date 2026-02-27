@@ -2,6 +2,7 @@
 name: dashboard
 description: Render and manage a project dashboard that aggregates plan status, component progress, and notes into an HTML view.
 allowed-tools: Read, Write, Bash, Glob
+attribution: Original work (https://github.com/LiudengZhang/Core_Skills_4_Projects)
 ---
 
 # Dashboard Skill

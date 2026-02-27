@@ -2,6 +2,7 @@
 name: history
 description: Parse and display conversation history to track what was done across sessions.
 allowed-tools: Read, Bash, Glob, Grep
+attribution: Original work (https://github.com/LiudengZhang/Core_Skills_4_Projects)
 ---
 
 # History Skill
