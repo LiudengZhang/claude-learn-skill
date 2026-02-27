@@ -1,6 +1,7 @@
 ---
 name: self-improving
 description: Captures learnings, errors, and corrections to enable continuous improvement. Self-reflection + Self-criticism + learning from corrections.
+attribution: Adapted from openclaw/skills by pskoett (https://github.com/openclaw/skills/blob/main/skills/pskoett/self-improving-agent/SKILL.md)
 ---
 
 # Self-Improving Agent
